@@ -1,0 +1,4 @@
+ibus-table-createdb -n 98wb.db -s 98wb.txt
+ibus-table-createdb -n 98wb_ci.db -s 98wb_ci.txt
+ibus-table-createdb -n 98wb_jian.db -s 98wb_jian.txt
+ibus-table-createdb -n 98wb_qm.db -s 98wb_qm.txt
